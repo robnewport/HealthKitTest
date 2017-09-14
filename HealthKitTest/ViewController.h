@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "HealthKitLibrary.h"
 
 @interface ViewController : UIViewController
 
